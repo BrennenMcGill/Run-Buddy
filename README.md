@@ -12,3 +12,5 @@ http://lernantino.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Brennen McGill
+
+### ©️2019 Run Buddy, Inc 
